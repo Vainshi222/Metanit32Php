@@ -11800,11 +11800,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\neste\\source\\repos\\Metanit32Php\\Metanit32Php\\Metanit32Php.csproj",
+      "projectUniqueName": "C:\\Users\\neste\\source\\Metanit32Php\\Metanit32Php\\Metanit32Php.csproj",
       "projectName": "Metanit32Php",
-      "projectPath": "C:\\Users\\neste\\source\\repos\\Metanit32Php\\Metanit32Php\\Metanit32Php.csproj",
+      "projectPath": "C:\\Users\\neste\\source\\Metanit32Php\\Metanit32Php\\Metanit32Php.csproj",
       "packagesPath": "C:\\Users\\neste\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\neste\\source\\repos\\Metanit32Php\\Metanit32Php\\obj\\",
+      "outputPath": "C:\\Users\\neste\\source\\Metanit32Php\\Metanit32Php\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
